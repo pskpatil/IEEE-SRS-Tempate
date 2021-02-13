@@ -4,11 +4,11 @@ IEEE System Requirements Specification Template
 # Software Requirements Specification
 ## For  \<project name>
 Version 1.0 approved
-Prepared by \<author></br>
-\<organization></br>
+Prepared by \<author><br>
+\<organization><br>
 \<date created>
 
-</hr>
+<hr>
 
 Table of Contents
 =================
@@ -46,7 +46,7 @@ Table of Contents
 * [Appendix B: Analysis Models](#appendix-b-analysis-models)
 * [Appendix C: To Be Determined List](#appendix-c-to-be-determined-list)
 
-</hr>
+<hr>
 
 ## Revision History
 
@@ -88,7 +88,7 @@ Table of Contents
   </tr>
 </tbody>
 </table>
-</br>
+
 
 ## 1. Introduction
 [[back to top](#table-of-contents)]
