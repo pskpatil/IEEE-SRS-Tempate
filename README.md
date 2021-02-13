@@ -3,10 +3,12 @@ IEEE System Requirements Specification Template
 
 # Software Requirements Specification
 ## For  \<project name>
-Version 1.0 approved
-Prepared by \<author></br>
-\<organization></br>
+Version 1.0 approved<br>
+Prepared by \<author><br>
+\<organization><br>
 \<date created>
+
+<hr>
 
 Table of Contents
 =================
@@ -44,8 +46,7 @@ Table of Contents
 * [Appendix B: Analysis Models](#appendix-b-analysis-models)
 * [Appendix C: To Be Determined List](#appendix-c-to-be-determined-list)
 
-<br/><br/>
-
+<hr>
 
 ## Revision History
 
@@ -57,14 +58,6 @@ Table of Contents
 |      	|      	|                    	|         	|
 -->
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -95,7 +88,7 @@ Table of Contents
   </tr>
 </tbody>
 </table>
-<br/><br/>
+
 
 ## 1. Introduction
 [[back to top](#table-of-contents)]
@@ -242,4 +235,3 @@ Optionally, include any pertinent analysis models, such as data flow diagrams, c
 
 Collect a numbered list of the TBD (to be determined) references that remain in the SRS so they can be tracked to closure.
 
-[[back to top](#table-of-contents)]
