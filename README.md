@@ -8,6 +8,7 @@ Prepared by \<author></br>
 \<organization></br>
 \<date created>
 
+</hr>
 Table of Contents
 =================
   * [Revision History](#revision-history)
@@ -44,8 +45,7 @@ Table of Contents
 * [Appendix B: Analysis Models](#appendix-b-analysis-models)
 * [Appendix C: To Be Determined List](#appendix-c-to-be-determined-list)
 
-<br/><br/>
-
+</hr>
 
 ## Revision History
 
@@ -56,7 +56,6 @@ Table of Contents
 |      	|      	|                    	|         	|
 |      	|      	|                    	|         	|
 -->
-
 
 <table class="tg">
 <thead>
@@ -88,7 +87,7 @@ Table of Contents
   </tr>
 </tbody>
 </table>
-<br/><br/>
+</br>
 
 ## 1. Introduction
 [[back to top](#table-of-contents)]
@@ -235,4 +234,3 @@ Optionally, include any pertinent analysis models, such as data flow diagrams, c
 
 Collect a numbered list of the TBD (to be determined) references that remain in the SRS so they can be tracked to closure.
 
-[[back to top](#table-of-contents)]
